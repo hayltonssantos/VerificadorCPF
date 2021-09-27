@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1632516654 source:c:\users\haylton\desktop\pessoal\validador\validadorcpf\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+
